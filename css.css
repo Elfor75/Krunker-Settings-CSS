@@ -1,0 +1,100 @@
+@keyframes rynback {
+  0% {background-color: red;}
+  20% {background-color: yellow;}
+  40% {background-color: green;}
+  60% {background-color: blue;}
+  80% {background-color: purple;}
+  100% {background-color: red;}
+}
+div#customizeButton.button.bigShadowT {
+    color: black;
+    background-color: red;
+    background-color: red;
+  animation-name: rynback;
+  animation-duration: 4s;
+}
+div#menuWindow {
+    background: gray;
+}
+input {
+    background-color: white;
+}
+span.settText.floatR {
+    color: red;
+}
+div#menuKRCount {
+    color: gold;
+}
+#endCard {
+    background-color: black;
+}
+div.settingsHeader {
+    background: black;
+}
+input#chatInput {
+    background: black;
+    color: red;
+}
+div.menuTabNew  {
+    background-color: black;
+    color: red;
+}
+div.accountButton {
+    color: black;
+    background: red;
+}
+input#accName.accountInput, input#accPass.accountInput{
+    background-color: blue;
+    color: red;
+}
+div.button.lgn.cc_pointer, div.button.lgn {
+    background: red;
+}
+div.chatItem {
+    color:  red;
+}
+span.chatMsg {
+    color: red;
+    font-size: 15px;
+}
+* {
+    font-family: Comic Sans MS;
+    color: red; 
+}
+div.krSocial.cc_pointer {
+    font-size: 8px;
+}
+div#chatList {
+    font-size: 10px;
+}
+
+
+div#instructions {
+    color: red;
+}
+div#aContainer {
+    background-color: red;
+}
+div#signedInHeaderBar.headerBarLeft.headerBar {
+    background-color: black;
+}
+div.headerBarRight.headerBar {
+    background-color: black;
+    color: white;
+}
+
+div.settName {
+    color: red;
+}
+select.inputGrey2.cc_pointer {
+    background-color: black;
+}
+a {
+    color: black; 
+}
+div.menuItem {
+    background-color: black;
+}
+div#navBar {
+    background-color: black;
+}
